@@ -1,0 +1,12 @@
+{
+  "name": "pluton-io",
+  "version": "0.1.0",
+  "description": "Pluton - IO plugin",
+  "main": "lib/index.js",
+  "author": "Benjamin HAMON <benjamin@hamon.sh>",
+  "license": "MIT",
+  "dependencies": {
+    "bourne": "^1.1.2",
+    "extend": "^3.0.2"
+  }
+}
